@@ -1,7 +1,4 @@
-# healthcareSystem
+Intrusion detection and response based on game theory is one of the current research hotspots in the field of network security. This article aims to delve deeper into this field by exploring relevant work, challenges, goals, and proposed solutions.
 
-
-Final Report - Contains the final report pdf.
-
-code - Contains all the code writen in the project.
+code - Contains all the code for the final project.
 
